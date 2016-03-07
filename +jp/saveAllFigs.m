@@ -27,6 +27,11 @@ if ~strcmp(folder(end), '\')
 end
 
 h = get(0,'children');
+
+if isempty(h)
+    warning('No open figures')
+end
+
 for i=1:length(h)
   saveas(h(i), [folder, 'figure_' num2str(length(h)+1-i)], fmt);
 end
