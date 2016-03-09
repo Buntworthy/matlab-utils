@@ -6,3 +6,4 @@
 %   saveAllFigs - Save all open figure windows.
 %   plot        - Customised plotting helper function.
 %   smooth      - Apply moving average filter to data.
+%   files       - Returns full filenames of all files in a folder.
