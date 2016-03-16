@@ -8,3 +8,4 @@
 %   smooth      - Apply moving average filter to data.
 %   files       - Returns full filenames of files in a folder.
 %   quickSpectrogram   - Plot the spectrogram of an audio file.
+%   Constants          - Static class defining constants
