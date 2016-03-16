@@ -15,4 +15,4 @@ end
 spectrogram(x(:,1), 1024, 512, 1024, Fs, 'yaxis');
 colormap(colourMap)
 caxis([-100, -10]);
-title(filename)
+title(filename,'interpreter','none')
