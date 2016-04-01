@@ -1,7 +1,7 @@
 function fotd()
 % FOTD Display random function and description.
 
-load('function_list.mat')
+load(jp.Constants.FunctionListFile)
 rng('shuffle')
 index = randi(size(functionlist,1));
 
