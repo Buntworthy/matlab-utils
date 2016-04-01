@@ -9,3 +9,4 @@
 %   files       - Returns full filenames of files in a folder.
 %   quickSpectrogram   - Plot the spectrogram of an audio file.
 %   Constants          - Static class defining constants
+%   fotd               - Display random function and description.
