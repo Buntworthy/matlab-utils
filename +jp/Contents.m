@@ -10,3 +10,5 @@
 %   quickSpectrogram   - Plot the spectrogram of an audio file.
 %   Constants          - Static class defining constants
 %   fotd               - Display random function and description.
+%   opts2struct        - Convert Name-Value cell array to struct.
+%   struct2opts        - Convert structure to Name-Value cell array.
