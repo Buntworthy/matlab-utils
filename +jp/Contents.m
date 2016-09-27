@@ -12,3 +12,4 @@
 %   fotd               - Display random function and description.
 %   opts2struct        - Convert Name-Value cell array to struct.
 %   struct2opts        - Convert structure to Name-Value cell array.
+%   trim               - shorten the longer of two vectors.
